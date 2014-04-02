@@ -13,6 +13,12 @@ You can post one photo along with a status update.
 - Ability to auto exit on successful sharing 
 - Option to auto remove # from twitter hashtags for FB 
 - Long press toggle switches to access accounts' page
-- 
-Available on Nokia Store(outdated) here http://store.ovi.com/content/357777
-Updated version available here http://theweekendcoder.blogspot.com/2014/01/shareboard-symbianharmatta-update.html
+
+
+Available on Nokia Store(outdated)
+=====================================
+http://store.ovi.com/content/357777
+
+Updated version available on my blog
+======================================
+http://theweekendcoder.blogspot.com/2014/01/shareboard-symbianharmatta-update.html
